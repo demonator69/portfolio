@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Hello, I am Abhinav Rao 
 
-You can use the [editor on GitHub](https://github.com/AbhinavRao23/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am systems engineer with passionate interest in automotive systems. I work as a technical researcher at 
+Bosch Ltd. helping create automotive data-based solutions (or features) for 2-wheeler vehicles.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Automotive Systems
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
